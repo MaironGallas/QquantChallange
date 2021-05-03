@@ -1,2 +1,4 @@
-# QquantChallange
-Challenge of the company Qquant!
+# Qquant Challange
+
+###### Challenge of the company Qquant!
+
