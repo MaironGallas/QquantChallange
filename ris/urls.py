@@ -16,6 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from ris.base import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('artigos/', views.articles_list, name='article_list'),
+    path('artigos/<int:pk>', views.articles_detail,  name='article_detail'),
+    path('exemplo/', views.articles_fields_list,  name='articles_fields_list'),
 ]
