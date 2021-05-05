@@ -19,3 +19,6 @@ Execute a pilha de testes
 Teste o aplicativo enviando a ele uma solicitação GET ou POST nas respectivas endpoints
 http://127.0.0.1:8000/artigos/ e para realizar o CRUD http://127.0.0.1:8000/artigos/id
 
+Seguem exemplo de uma entrada válida:
+
+https://github.com/MrTango/rispy/blob/master/tests/data/example_full.ris
