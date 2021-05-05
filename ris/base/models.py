@@ -1,10 +1,5 @@
 from django.db import models
 
-# Create your models here.
-
-class Articles(models.Model):
-    created = models.DateTimeField(auto_now_add=True)
-    dados = models.JSONField()
 
 class Article_Complete(models.Model):
     created = models.DateTimeField(auto_now_add=True)
