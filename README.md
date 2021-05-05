@@ -1,6 +1,6 @@
-# Qquant Desáfio
+# Qquant Desafio
 
-###### Desáfio da empresa Qquant!
+###### Desafio da empresa Qquant!
 
 Siga estas etapas para instalar e executá-lo:
 Clone o repositório
